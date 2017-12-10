@@ -7,3 +7,5 @@ El pessebre està format per un Arduino Mega (controla DMX, 2 relés, Display LC
 El programa de test serveix per controlar cada una de les sorides individualment.
 
 El fitxer DMX.xlsx és una descripció del que hi ha connectat a cada una de les sortides des 2 DMX (1.30, 31..61)
+
+El jpg indica la posició de cada punt de llum.
